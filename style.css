@@ -6,3 +6,9 @@ table.table1 th
 {border:1px solid black}
 table.table1 td
 {border:1px solid black}
+table.table2
+{border-collapse: collapse;border:3px solid black}
+table.table2 th
+{border: 2px solid black}
+table.table2 td
+{border: 2px solid black}
